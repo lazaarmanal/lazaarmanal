@@ -58,7 +58,7 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazaarmanal&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lazaarmanal&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com/?user=lazaarmanal&theme=radical&hide_border=false" height="150" alt="GitHub Streak" /> -->
 </div>
 
 ---
